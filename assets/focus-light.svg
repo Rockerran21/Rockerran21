@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Focus areas">
+  <defs>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0369a1"/><stop offset="100%" stop-color="#0f766e"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="#f8fafc"/>
+
+  <g font-family="ui-sans-serif,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+
+    <!-- col 1 -->
+    <g transform="translate(48,44)">
+      <rect x="0" y="0" width="40" height="3" rx="1.5" fill="url(#ac)"/>
+      <text x="0" y="38" font-size="19" font-weight="700" fill="#0f172a">Security Operations</text>
+      <text x="0" y="76" font-size="15" fill="#334155">SIEM detection &amp; alert triage</text>
+      <text x="0" y="104" font-size="15" fill="#334155">Incident response &amp; containment</text>
+      <text x="0" y="132" font-size="15" fill="#334155">Log analysis, IDS/IPS, EDR</text>
+      <text x="0" y="160" font-size="15" fill="#334155">Vulnerability management</text>
+      <text x="0" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#64748b">Wazuh · LogPoint · Snort · OpenEDR</text>
+    </g>
+
+    <line x1="400" y1="52" x2="400" y2="248" stroke="#0f172a14" stroke-width="1"/>
+
+    <!-- col 2 -->
+    <g transform="translate(448,44)">
+      <rect x="0" y="0" width="40" height="3" rx="1.5" fill="url(#ac)"/>
+      <text x="0" y="38" font-size="19" font-weight="700" fill="#0f172a">Cloud &amp; Infrastructure</text>
+      <text x="0" y="76" font-size="15" fill="#334155">Hardened cloud deployments</text>
+      <text x="0" y="104" font-size="15" fill="#334155">Identity &amp; access, RBAC design</text>
+      <text x="0" y="132" font-size="15" fill="#334155">Virtualization &amp; monitoring</text>
+      <text x="0" y="160" font-size="15" fill="#334155">Zero-Trust architecture</text>
+      <text x="0" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#64748b">AWS · Azure · Oracle · pfSense · Proxmox</text>
+    </g>
+
+    <line x1="800" y1="52" x2="800" y2="248" stroke="#0f172a14" stroke-width="1"/>
+
+    <!-- col 3 -->
+    <g transform="translate(848,44)">
+      <rect x="0" y="0" width="40" height="3" rx="1.5" fill="url(#ac)"/>
+      <text x="0" y="38" font-size="19" font-weight="700" fill="#0f172a">AI Agent Systems</text>
+      <text x="0" y="76" font-size="15" fill="#334155">Production LLM agents</text>
+      <text x="0" y="104" font-size="15" fill="#334155">Grounded retrieval design</text>
+      <text x="0" y="132" font-size="15" fill="#334155">Prompt-injection defence</text>
+      <text x="0" y="160" font-size="15" fill="#334155">Self-hosted, least privilege</text>
+      <text x="0" y="196" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#64748b">Python · TypeScript · Linux · cron</text>
+    </g>
+  </g>
+</svg>
