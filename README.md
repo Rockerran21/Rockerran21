@@ -45,4 +45,4 @@ I publish offensive cloud and CI/CD research at **[ranjanm-security.medium.com](
 
 ---
 
-[Portfolio](https://rockerran21.github.io/) · [LinkedIn](https://www.linkedin.com/in/ranjan-marasini-434202182/) · [Medium](https://ranjanm-security.medium.com/) · ranjanmarasini123@gmail.com
+[Portfolio](https://rockerran21.github.io/) · [LinkedIn](https://www.linkedin.com/in/ranjan-marasini-434202182/) · [Medium](https://ranjanm-security.medium.com/) · 
